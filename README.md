@@ -10,7 +10,7 @@ Please note that this app was built for a class assignment for my MS in GIS and 
 
 [Wisconsin Nitrate-Cancer Dashboard](https://uw-mad.maps.arcgis.com/apps/webappviewer/index.html?id=7d7e739eff3d45d490ea207f4c7ee40f)
 
-<h2<Project Materials</h2>
+<h2>Project Materials</h2>
 
 [Watch a short demo video here](https://youtu.be/3v9xWQ_Xax8)
 
@@ -27,7 +27,7 @@ Please note that this app was built for a class assignment for my MS in GIS and 
 
 <h2>Screenshots</h2>
 
-<img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-1.png width="25%"></img> 
+<img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-1.png" width="25%"></img> 
 <img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-2.png" width="25%"></img>
 <img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-3.png" width="25%"></img>
 
