@@ -26,7 +26,20 @@ Please note that this app was built for a class assignment for my MS in GIS and 
 - Visualize the location and sampled nitrate levels at wells sites all across Wisconsin
 - Access beautiful interpolation surfaces designed to estimate nitrate levels at unsampled locations
 - Visualize community cancer levels based on demographic data
+- Custom geospatial stastical analysis layers for geographically weighted regression results
 - Use additional map analysis tools, such as Measure and Generate Hotspots
 - Curated tooltips to provide additional datapoint insights
 - Linked visualizations to summarize attribute distributions
 - Integration between desktop data generation/processing, publication via ArcGIS Online, and interface design using ArcGIS Online-provided tools
+
+<h2>Contents</h2>
+
+``webmap_builder.ipynb`` - main Jupyter Notebook for the app.  Performs ETL, spatial analysis, publication functions
+
+``renderers.py`` - custom renderer class to generate ArcGIS API renderer objects for the different analytics layers
+
+``colorbrewer.py`` -  stores ColorBrewer ramps (used by renderers.py in lieu of the base AROL color ramps)
+
+``raster_to_polygon.py`` - ModelBuilder output captured as a reference for development into Notebook format
+
+``scratch.py`` - Reference/sample data structures for various AGOL API objects
