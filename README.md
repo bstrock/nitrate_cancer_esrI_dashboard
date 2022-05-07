@@ -17,9 +17,9 @@ Please note that this app was built for a class assignment for my MS in GIS and 
 
 <h2>Screenshots</h2>
 
-<img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-1.png" width="25%"></img> 
-<img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-2.png" width="25%"></img>
-<img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-3.png" width="25%"></img>
+<img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-1.png" width="33%"></img> 
+<img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-2.png" width="33%"></img>
+<img src="https://github.com/bstrock/nitrate_cancer_dashboard/blob/master/dashboard-screenshot-3.png" width="33%"></img>
 
 <h2>App Features</h2>
 
